@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MKEmike43ver/MATC.git"
+    "url": "git+https://github.com/itdev161-fa2023/mike-armstrong.git"
   },
   "author": "Mike Armstrong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MKEmike43ver/MATC/issues"
+    "url": "https://github.com/itdev161-fa2023/mike-armstrong/issues"
   },
-  "homepage": "https://github.com/MKEmike43ver/MATC#readme",
+  "homepage": "https://github.com/itdev161-fa2023/mike-armstrong#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.8",
